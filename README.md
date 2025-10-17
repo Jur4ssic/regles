@@ -12,11 +12,22 @@ Nous nous engageons fermement à protéger la vie privée de nos utilisateurs. C
 
 Nous collectons les types d'informations suivants pour les finalités précisées :
 
-| Type de Donnée Collectée | Exemples de Données | Finalité de la Collecte |
-| :--- | :--- | :--- |
-| **Données Fournies par l'Utilisateur** | | |
-| **Données de l'Appareil et d'Utilisation** | | |
-| **Données Sensibles si applicable** | | |
+Type de Donnée Collectée,Exemples de Données (À adapter selon votre app),Finalité de la Collecte (Pourquoi vous en avez besoin)
+Données Fournies par l'Utilisateur,,
+Nom et Prénom,[Si vous demandez le nom réel de l'utilisateur],[Ex: Personnalisation de l'expérience utilisateur ou Support Client.]
+Adresse e-mail,[Si l'utilisateur crée un compte ou s'abonne à une newsletter],"[Ex: Gestion du compte, communication sur le service, envoi de reçus.]"
+Identifiant de compte,"[Nom d'utilisateur, ID spécifique créé lors de l'enregistrement]",[Ex: Authentification de l'utilisateur et synchronisation des données.]
+Données de l'Appareil et d'Utilisation,,
+Identifiants d'appareil,"[ID publicitaire Android (ADID), autres ID spécifiques à l'appareil.]","[Ex: Analyse de la performance, prévention de la fraude, publicité non personnalisée.]"
+Données de diagnostic,"[Journaux de plantage (crash logs), données de performance de l'application.]","[Ex: Correction des bugs, amélioration de la stabilité et de la vitesse de l'application.]"
+Interactions avec l'Application,"[Nombre de clics, écrans visités, fonctionnalités utilisées.]","[Ex: Comprendre l'utilisation de l'application, améliorer le design et l'ergonomie.]"
+Données Sensibles (si applicable),,
+Position approximative,[Latitude/Longitude avec une précision de plus de 3 km],[Ex: Affichage d'informations météorologiques ou de contenu pertinent pour la région.]
+Position précise,[Latitude/Longitude avec une précision de moins de 3 km],[Ex: Fournir une fonctionnalité principale nécessitant une carte ou un service de géolocalisation en temps réel.]
+Photos et/ou Vidéos,[Fichiers médias téléchargés via l'application],[Ex: Permettre aux utilisateurs de créer et de partager du contenu.]
+Fichiers et Documents,[Accès à des fichiers spécifiques non médias sur l'appareil],[Ex: Enregistrer la progression du jeu ou les paramètres de l'application.]
+Autres Données Collectées,,
+[Nommez toute autre donnée spécifique],[Détaillez cette donnée],[Justifiez l'objectif de la collecte]
 
 * **Note Spéciale sur les Données Sensibles :** La collecte de données sensibles n'est effectuée qu'avec votre **consentement explicite** et est strictement limitée à ce qui est nécessaire pour fournir la fonctionnalité principale de l'Application.
 
