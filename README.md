@@ -1,7 +1,3 @@
-D'accord, je vais nettoyer le document en retirant les exemples, les indications entre parenthèses et les crochets, ne laissant que le texte de la politique et vos espaces à remplir.
-
----
-
 ## RÈGLES DE CONFIDENTIALITÉ DE L'APPLICATION
 
 **Date d'entrée en vigueur :**
@@ -57,10 +53,3 @@ Pour exercer l'un de ces droits, veuillez nous contacter aux coordonnées fourni
 ### 6. Modifications de la Politique de Confidentialité
 
 Nous nous réservons le droit de mettre à jour notre Politique de Confidentialité de temps à autre. Nous vous informerons de tout changement en publiant la nouvelle politique sur cette page et en mettant à jour la « Date d'entrée en vigueur » en haut de cette page. Les modifications entrent en vigueur dès leur publication.
-
-### 7. Nous Contacter
-
-Si vous avez des questions ou des suggestions concernant ces Règles de Confidentialité, veuillez nous contacter :
-
-* **Par e-mail :**
-* **Par courrier :**
